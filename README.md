@@ -1,13 +1,13 @@
-# Soothing Nature
+## Soothing Nature
 A single page profile web template powered by Jekyll.
 
-Highlights
+# Highlights
 It is a flat design single page card style profile site that runs the liquid powered by Jekyll. Easy to setup and use as your profile website.
 
-Have a look?
+# Have a look?
 [Soothing Nature](https://github.com/riyashekann/soothing_nature)
 
-How to use?
+# How to use?
 To use ProfileFlat as your profile website,
 
 Fork this repository.
@@ -22,7 +22,7 @@ Save and commit the changes.
 Go to the settings of the repository and enable the github pages.
 The website will be live at "https://[yourusername].github.io"
 
-Built With
+# Built With
 Jekyll - The static site generator.
-Contributing
+# Contributing
 Made with ❤ by [Anindita Guha](https://riyashekann.github.io)
