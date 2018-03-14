@@ -8,7 +8,7 @@ It is a flat design single page card style profile site that runs the liquid pow
 [Soothing Nature](https://github.com/riyashekann/soothing_nature)
 
 # How to use?
-To use ProfileFlat as your profile website,
+To use Soothing Nature as your profile website,
 
 Fork this repository.
 Upload your profile picture in images directory with the dimensions of already given and rename it as already done i.e. 'avatar.jpg'
